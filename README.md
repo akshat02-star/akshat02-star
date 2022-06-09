@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshat02-star
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m Akshat
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently a third year student at IIT Bhubaneshwar
 - 📫 How to reach me: my mail ID: akshat2002agrawal@gmail.com
 
 <!---
